@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 <p align="center">
 <!-- <a href="https://dev.to/narottam04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="narottam04" height="30" width="40" style = "padding : 0 1rem"/></a> -->
-<a href="https://twitter.com/VipeenBendale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_narottam_dev" height="30" width="40" style = "padding : 0 1rem"/></a>
+<a href="https://twitter.com/VipeenBendale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VipeenBendale" height="30" width="40" style = "padding : 0 1rem"/></a>
 <a href="https://www.linkedin.com/in/vipeen-bendale-113725212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipeen-bendale-113725212/" height="30" width="40" style = "padding : 0 1rem" /></a>
 <a href="https://www.instagram.com/ivb028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ivb028/" height="30" width="40"style = "padding : 0 1rem" /></a>
 </p>
