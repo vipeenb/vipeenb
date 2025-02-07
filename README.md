@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/vipeenb)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vipeenb)
 
